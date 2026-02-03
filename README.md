@@ -18,9 +18,9 @@ Optimizing ATS resume scoring logic & deploying Django apps
 HTML, CSS, JavaScript, Python, Django, Flask, Git, GitHub, PostgreSQL
 
 📫 How to reach me
-LinkedIn: https://www.linkedin.com/in/your-link
+LinkedIn: https://www.linkedin.com/in/puneet-chauhan-81b32b281
 
-Email: your.email@example.com
+Email: punitchauhan2103@gmail.com
 
 😄 Pronouns
 He / Him
