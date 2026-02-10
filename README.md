@@ -62,16 +62,7 @@ HTML, CSS, JavaScript, Python, Django, Flask, Git, GitHub, PostgreSQL
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puneetx21&theme=github-dark" />
 </p>
 
-### 📌 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneetx21&show_icons=true&theme=dark&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pneetx21&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
 
 ⭐️ From [Puneetx21](https://github.com/Puneetx21)
 
