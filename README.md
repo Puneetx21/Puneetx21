@@ -45,7 +45,7 @@ Email: punitchauhan2103@gmail.com
   <a href="https://www.linkedin.com/in/puneet-chauhan-81b32b281/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/puneetx21" target="_blank">
+  <a href="https://github.com/Puneetx21" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="mailto:punitchauhan2103@gmail.com">
@@ -59,26 +59,26 @@ Email: punitchauhan2103@gmail.com
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=puneetx21&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Puneetx21&theme=dark&hide_border=true" />
 </p>
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puneetx21&theme=github-dark" />
 </p>
 
 ### 📌 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Puneetx21&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetx21&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/puneetx21)
+⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/Puneetx21)
 
 
 😄 Pronouns
