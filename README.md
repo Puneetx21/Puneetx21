@@ -42,13 +42,13 @@ Email: punitchauhan2103@gmail.com
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/puneet-chauhan-81b32b281/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/puneetx21" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:yourgmail@gmail.com">
+  <a href="mailto:punitchauhan2103@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -59,7 +59,7 @@ Email: punitchauhan2103@gmail.com
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=puneetx21&theme=dark&hide_border=true" />
 </p>
 
 ### 📈 Contribution Graph
@@ -78,7 +78,7 @@ Email: punitchauhan2103@gmail.com
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/puneetx21)
 
 
 😄 Pronouns
