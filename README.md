@@ -43,7 +43,7 @@ HTML, CSS, JavaScript, Python, Django, Flask, Git, GitHub, PostgreSQL
   <a href="https://github.com/Puneetx21" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:punitchauhan1321@gmail.com">
+  <a href="mailto:punitchauhan2103@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
