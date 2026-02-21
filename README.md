@@ -21,7 +21,7 @@ HTML, CSS, JavaScript, Python, Django, Flask, Git, GitHub, PostgreSQL
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,sql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql,postgresql" />
 </p>
 
 ---
