@@ -1,16 +1,22 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6f42c1&height=200&section=header&text=Hi%20there!%20I'm%20Puneet%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6f42c1&height=200&section=header&text=Hi%20there!%20I'm%20Puneet%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Intro -->
-<h2 align="center">🚀 Final-Year CSE Student | Aspiring Software Developer</h2>
-
+<!-- Typing -->
 <p align="center">
-  💡 Passionate about Web Development, Automation & AI Projects  
+  <img src="https://readme-typing-svg.herokuapp.com?color=6f42c1&size=25&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Aspiring+Developer;Building+AI+Projects" />
 </p>
 
----
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
+<!-- Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Puneetx21&label=Profile%20Views&color=6f42c1" />
+</p>
 
 ## 🚀 About Me
 
