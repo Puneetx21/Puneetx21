@@ -82,3 +82,14 @@ He / Him
 
 ⚡ Fun fact
 I love turning ideas into projects and debugging code at midnight 🌙💻
+
+---
+
+<p align="center">Show some ❤️ by starring some of my repositories!</p>
+<p align="center">Happy Coding! 🚀</p>
+
+<p align="center">
+  <img src="YOUR_ANIMATION_GIF_URL" width="100%" />
+</p>
+
+<p align="center" style="color: violet;">Thanks for visiting! 😊</p>
