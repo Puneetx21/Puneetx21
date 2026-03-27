@@ -1,22 +1,19 @@
-<!-- Banner -->
+<!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6f42c1&height=200&section=header&text=Hi%20there!%20I'm%20Puneet%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8A2BE2&height=220&section=header&text=Welcome%20to%20my%20GitHub%20Profile!%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing -->
+<!-- 👀 Profile Views -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6f42c1&size=25&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Aspiring+Developer;Building+AI+Projects" />
+  <img src="https://komarev.com/ghpvc/?username=Puneetx21&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
 </p>
 
-<!-- GIF -->
+<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Puneet;Final+Year+CSE+Student;Aspiring+Software+Developer;Building+AI+Projects;Open+Source+Enthusiast" />
 </p>
 
-<!-- Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Puneetx21&label=Profile%20Views&color=6f42c1" />
-</p>
+---
 
 ## 🚀 About Me
 
