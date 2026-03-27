@@ -1,37 +1,19 @@
-<!-- 🔥 FULL WIDTH BANNER (TECH COLLAGE STYLE) -->
+<!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8A2BE2&height=220&section=header&text=Welcome%20to%20my%20GitHub%20Profile!%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🧠 GLITCH / NEON HEADER -->
+<!-- 👀 Profile Views -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!+🚀;Hi+there+👋+I'm+Puneet;Building+Cool+AI+Projects;Future+Software+Engineer" />
+  <img src="https://komarev.com/ghpvc/?username=Puneetx21&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
 </p>
 
-<!-- 👀 PROFILE VIEWS (BUTTON STYLE) -->
+<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Puneetx21&label=PROFILE+VIEWS&color=6f42c1&style=for-the-badge" />
-</p>
-
-<!-- ⚡ NEON DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Puneet;Final+Year+CSE+Student;Aspiring+Software+Developer;Building+AI+Projects;Open+Source+Enthusiast" />
 </p>
 
 ---
-
-## 🚀 About Me (PIXEL STYLE)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750"/>
-</p>
-
-```yaml
-name: Puneet
-role: Developer ⚡
-focus: AI + Web Apps
-learning: Django | FastAPI | PostgreSQL | ATS Systems
-vibe: "Code. Build. Repeat."
 
 ## 🚀 About Me
 
