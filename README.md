@@ -46,19 +46,7 @@ Final-year **B.Tech CSE student** and aspiring **Software Developer**.
 </p>
 
 ---
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR-HANDLE">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:your@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ## 📊 GitHub Activity & Contributions
 
@@ -84,12 +72,3 @@ He / Him
 I love turning ideas into projects and debugging code at midnight 🌙💻
 
 ---
-
-<p align="center">Show some ❤️ by starring some of my repositories!</p>
-<p align="center">Happy Coding! 🚀</p>
-
-<p align="center">
-  <img src="YOUR_ANIMATION_GIF_URL" width="100%" />
-</p>
-
-<p align="center" style="color: violet;">Thanks for visiting! 😊</p>
