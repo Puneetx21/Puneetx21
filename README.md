@@ -15,18 +15,24 @@
 
 ---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+</p>
 
-```yaml
-name: Puneet Chauhan
-username: Puneetx21
-education: Final Year B.Tech CSE
-current_focus: Building AI-powered Resume Analyzer & Interview Platform
-learning: Advanced Django, REST APIs, PostgreSQL, ATS Systems, AI Integrations
-interests: ["Coding", "Open Source", "Innovation"]
-collaboration: Web Apps | Python Automation | AI/ML Projects
-help_needed: Optimizing ATS scoring & Django deployment
-```
+<p align="center">
+  👋 <b>Hi, I'm Puneet Chauhan</b> <br><br>
+
+  🎓 Final Year CSE Student <br>
+  🚀 Future Software Developer <br><br>
+
+  🔭 Building → <b>AI Resume Analyzer & Interview Platform</b> <br>
+  🌱 Learning → Django • REST APIs • PostgreSQL • AI <br><br>
+
+  💡 Interests → Coding • Open Source • Innovation <br>
+  🤝 Collaboration → Web Apps • Automation • AI/ML <br><br>
+
+  ⚡ Motto → <i>Keep Building. Keep Growing.</i>
+</p>
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
