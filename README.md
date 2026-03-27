@@ -1,21 +1,29 @@
-Hi there 👋 I'm Puneet (Puneetx21)
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6f42c1&height=200&section=header&text=Hi%20there!%20I'm%20Puneet%20👋&fontSize=40&fontColor=ffffff" />
+</p>
 
-🚀 Final-year Computer Science student | Aspiring Software Developer
-💡 Passionate about building web apps, automation tools & AI-powered projects
+<!-- Intro -->
+<h2 align="center">🚀 Final-Year CSE Student | Aspiring Software Developer</h2>
 
-🔭 I’m currently working on
-AI-powered Resume Analyzer & Interview Platform using Python
-🌱 I’m currently learning
-Advanced Django, REST APIs, PostgreSQL, ATS systems, and AI integrations
+<p align="center">
+  💡 Passionate about Web Development, Automation & AI Projects  
+</p>
 
-👯 I’m looking to collaborate on
-Web applications, Python automation, AI/ML-based student projects
+---
 
-🤔 I’m looking for help with
-Optimizing ATS resume scoring logic & deploying Django apps
+## 🚀 About Me
 
-💬 Ask me about
-HTML, CSS, JavaScript, Python, Django, Flask, Git, GitHub, PostgreSQL
+```yaml
+name: Puneet
+username: Puneetx21
+education: Final Year B.Tech CSE
+current_focus: Building AI-powered Resume Analyzer & Interview Platform
+learning: Advanced Django, REST APIs, PostgreSQL, ATS Systems, AI Integrations
+interests: ["Coding", "Open Source", "Innovation"]
+collaboration: Web Apps | Python Automation | AI/ML Projects
+help_needed: Optimizing ATS scoring & Django deployment
+quote: "Not talented. Just good at not giving up."
 
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
