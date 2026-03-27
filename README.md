@@ -24,7 +24,7 @@ interests: ["Coding", "Open Source", "Innovation"]
 collaboration: Web Apps | Python Automation | AI/ML Projects
 help_needed: Optimizing ATS scoring & Django deployment
 quote: "Not talented. Just good at not giving up."
-
+```
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
