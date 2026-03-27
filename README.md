@@ -20,39 +20,9 @@ HTML, CSS, JavaScript, Python, Django, Flask, Git, GitHub, PostgreSQL
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
-<h2 align="left">🛠️ Tech Stack & Tools</h2>
-
-<table style="width:100%; border-collapse: collapse; background-color:#0d1117; color:white;">
-
-  <tr>
-    <td style="border:1px solid #30363d; padding:12px;"><b>💻 Frontend</b></td>
-    <td style="border:1px solid #30363d; padding:12px;">
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #30363d; padding:12px;"><b>⚙️ Backend & Frameworks</b></td>
-    <td style="border:1px solid #30363d; padding:12px;">
-      <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #30363d; padding:12px;"><b>🗄️ Database</b></td>
-    <td style="border:1px solid #30363d; padding:12px;">
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #30363d; padding:12px;"><b>🧰 Tools & Platforms</b></td>
-    <td style="border:1px solid #30363d; padding:12px;">
-      <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-    </td>
-  </tr>
-
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,fastapi,django,postgresql,mongodb,vscode,git,github" />
+</p>
 
 ## 🤝 Connect with me
 
