@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 ```yaml
-name: Puneet
+name: Puneet Chauhan
 username: Puneetx21
 education: Final Year B.Tech CSE
 current_focus: Building AI-powered Resume Analyzer & Interview Platform
@@ -23,7 +23,6 @@ learning: Advanced Django, REST APIs, PostgreSQL, ATS Systems, AI Integrations
 interests: ["Coding", "Open Source", "Innovation"]
 collaboration: Web Apps | Python Automation | AI/ML Projects
 help_needed: Optimizing ATS scoring & Django deployment
-quote: "Not talented. Just good at not giving up."
 ```
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
