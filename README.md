@@ -14,23 +14,14 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
-</p>
-
 <p align="center">
   👋 <b>Hi, I'm Puneet Chauhan</b> <br><br>
-
   🎓 Final Year CSE Student <br>
   🚀 Future Software Developer <br><br>
-
   🔭 Building → <b>AI Resume Analyzer & Interview Platform</b> <br>
   🌱 Learning → Django • REST APIs • PostgreSQL • AI <br><br>
-
   💡 Interests → Coding • Open Source • Innovation <br>
   🤝 Collaboration → Web Apps • Automation • AI/ML <br><br>
-
   ⚡ Motto → <i>Keep Building. Keep Growing.</i>
 </p>
 
