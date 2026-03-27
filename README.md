@@ -18,13 +18,26 @@ Optimizing ATS resume scoring logic & deploying Django apps
 HTML, CSS, JavaScript, Python, Django, Flask, Git, GitHub, PostgreSQL
 
 
-## 🛠️ Skills
+<h2 align="left">⚒️ Tech Stack</h2>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,fastapi,mysql,postgresql" />
-</p>
+<div align="left">
 
----
+💻 Languages  
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+
+🌐 Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" />
+
+🗄️ Database  
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+
+🛠️ Tools  
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+</div>
 
 ## ⚙️ Tools & Platforms
 
