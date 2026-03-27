@@ -14,16 +14,18 @@
 </p>
 
 ---
-<p align="center">
-  👋 <b>Hi, I'm Puneet Chauhan</b> <br><br>
-  🎓 Final Year CSE Student <br>
-  🚀 Future Software Developer <br><br>
-  🔭 Building → <b>AI Resume Analyzer & Interview Platform</b> <br>
-  🌱 Learning → Django • REST APIs • PostgreSQL • AI <br><br>
-  💡 Interests → Coding • Open Source • Innovation <br>
-  🤝 Collaboration → Web Apps • Automation • AI/ML <br><br>
-  ⚡ Motto → <i>Keep Building. Keep Growing.</i>
-</p>
+## 🚀 About Me
+
+Hi, I'm **Puneet Chauhan** 👋  
+Final-year **B.Tech CSE student** and aspiring **Software Developer**.
+
+- 🔭 Currently building an **AI-powered Resume Analyzer & Interview Platform**
+- 🌱 Learning **Advanced Django, REST APIs, PostgreSQL, ATS Systems & AI integrations**
+- 💡 Interested in **Coding, Open Source & Innovation**
+- 🤝 Open to collaboration on **Web Apps, Python Automation & AI/ML projects**
+- 🛠️ Seeking help with **ATS scoring optimization & Django deployment**
+
+⚡ *"Not talented. Just good at not giving up."*
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
