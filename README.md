@@ -18,34 +18,46 @@ Optimizing ATS resume scoring logic & deploying Django apps
 HTML, CSS, JavaScript, Python, Django, Flask, Git, GitHub, PostgreSQL
 
 
-<h2 align="left">⚒️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack & Tools</h2>
 
-<div align="left">
+<table style="width:100%; border-collapse: collapse; background-color:#0d1117; color:white;">
 
-💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+  <tr>
+    <td style="border:1px solid #30363d; padding:12px;"><b>💻 Frontend</b></td>
+    <td style="border:1px solid #30363d; padding:12px;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react" />
+    </td>
+  </tr>
 
-🌐 Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <tr>
+    <td style="border:1px solid #30363d; padding:12px;"><b>⚙️ Backend & APIs</b></td>
+    <td style="border:1px solid #30363d; padding:12px;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    </td>
+  </tr>
 
-⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" />
+  <tr>
+    <td style="border:1px solid #30363d; padding:12px;"><b>🗄️ Database Management System</b></td>
+    <td style="border:1px solid #30363d; padding:12px;">
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+    </td>
+  </tr>
 
-🗄️ Database  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <tr>
+    <td style="border:1px solid #30363d; padding:12px;"><b>🚀 Programming Languages</b></td>
+    <td style="border:1px solid #30363d; padding:12px;">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+    </td>
+  </tr>
 
-🛠️ Tools  
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <tr>
+    <td style="border:1px solid #30363d; padding:12px;"><b>🧰 Tools & Platforms</b></td>
+    <td style="border:1px solid #30363d; padding:12px;">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+    </td>
+  </tr>
 
-</div>
-
-## ⚙️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-</p>
-
----
+</table>
 
 ## 🤝 Connect with me
 
