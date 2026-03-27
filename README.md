@@ -25,8 +25,6 @@ Final-year **B.Tech CSE student** and aspiring **Software Developer**.
 - 🤝 Open to collaboration on **Web Apps, Python Automation & AI/ML projects**
 - 🛠️ Seeking help with **ATS scoring optimization & Django deployment**
 
-⚡ *"Not talented. Just good at not giving up."*
-
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
 <p align="left">
